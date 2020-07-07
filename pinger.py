@@ -1,7 +1,9 @@
-from random import random
 from os import system
 from time import sleep, localtime, strftime
+from random import random
 
+# We are using selenium instead of requests module, 'cuz most website do not have features
+# like getting data from command line or cURL due security reasons.
 from selenium.webdriver import Chrome
 from selenium.webdriver.chrome.options import Options
 
