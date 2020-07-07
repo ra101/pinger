@@ -11,6 +11,7 @@ This tool will visit my/your sub-domains to make it look visitors are visiting..
 
 `pinger.sh`: for linux/mac users, it enable the script to work in background.
 
+## Startup Configuration
 
 ### Windows users.
   - Step 1: Delete `pinger.sh`
@@ -19,4 +20,4 @@ This tool will visit my/your sub-domains to make it look visitors are visiting..
 
 ### Linux/Mac users.
   - Step 1: Delete `pinger.vbs`
-  - Step 2: Search on Stackoverflow.
+  - Step 2: Search on Stackoverflow about how to do it.
