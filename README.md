@@ -21,3 +21,7 @@ This tool will visit my/your sub-domains to make it look visitors are visiting..
 ### Linux/Mac users.
   - Step 1: Delete `pinger.vbs`
   - Step 2: Search on Stackoverflow about how to do it.
+
+
+
+**PS: `line 27` on `pinger.py` does not work for linux/mac users, change accordingly.**
