@@ -15,7 +15,7 @@ if random() > 0.7 :
         
         # list of websites, having them in .env is probably better
         # but i dont want another import just for this stupid program...
-        websites = ["http://masquerbot.pythonanywhere.com/home.html", "http://thewtvlist.epizy.com/home.html", "http://ra101.github.io/home.html"]
+        websites = ["https://masquerbot.herokuapp.com/home.html", "http://thewtvlist.epizy.com/home.html", "http://ra101.github.io/home.html"]
 
         options = Options()
         
